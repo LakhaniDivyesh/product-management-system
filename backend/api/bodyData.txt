@@ -1,0 +1,159 @@
+//login
+{
+    "email" : "divyesh@gmail.com",
+    "password" : "divyesh@12",
+    "device_name": "dell vostro",
+    "device_token": "rsgrghwhrhwfjoe",
+    "uuid": "",
+    "device_type": "Laptop",
+    "os_version": "windows 11",
+    "model_name": "dell 5678Z",
+    "ip": "127.0.0.1"
+}
+
+
+{
+    "login_type":"G",
+    "social_id" : "uhdfuewfuudhiupy38947r8rndhiuyd",
+    "device_name": "dell vostro",
+    "device_token": "rsgrghwhrhwfjoe",
+    "uuid": "",
+    "device_type": "Laptop",
+    "os_version": "windows 11",
+    "model_name": "dell 5678Z",
+    "ip": "127.0.0.1"
+}
+
+//signup
+
+{
+    "profession_id": "3",
+    "full_name": "divyesh lakhani",
+    "email": "divyesh@gmail.com",
+    "mobile": "1234567898",
+    "country_code": "+91",
+    "password": "divyesh@12",
+    "profile_image" :"divyesh.jpg",
+    "overview" : "hi, i am a full-stack developer",
+    "device_name": "dell vostro",
+    "device_token": "rsgrghwhrhwfjoe",
+    "uuid": "",
+    "device_type": "Laptop",
+    "os_version": "windows 11",
+    "model_name": "dell 5678Z",
+    "ip": "127.0.0.1"
+}
+
+{
+    "login_type":"G",
+    "name" : "jay patel",
+    "email" : "jay@gmail.com",
+    "social_id" : "uhdfuewfuudhiupy38947r8rndhiuyd",
+    "device_name": "dell vostro",
+    "device_token": "rsgrghwhrhwfjoe",
+    "uuid": "",
+    "device_type": "Laptop",
+    "os_version": "windows 11",
+    "model_name": "dell 5678Z",
+    "ip": "127.0.0.1"
+}
+
+//otp
+{
+"email" : "divyesh4@gmail.com",
+"otp":"2566"
+}
+
+//resend otp
+{
+    "email" : "divyesh@gmail.com"
+}
+
+//set-profile
+{
+    "fitness_goal": "fat loss",
+    "dob" : "2002-03-12",
+    "gender" : "male",
+    "weight" : "55",
+    "target_weight" : "50",
+    "height" : "5.3",
+    "activity_level" : "beginner"
+}
+
+//set-password
+
+{
+    "password" : "divyesh@10",
+    "confirm_password":"divyesh@10"
+}
+
+//change password
+{
+    "old_password":"divyesh@10",
+    "password" : "divyesh@10",
+    "confirm_password":"divyesh@10"
+}
+
+//edit-profile
+{
+    "name":"divyesh patel",
+    "address" : "sola, Ahmedabad, Gujarat",
+    "latitude" : "23.0759779",
+    "longitude" : "72.5265198"
+}
+
+//add to cart 
+
+{
+   "food_id" : "1",
+    "quantity" : "5"
+}
+
+{
+    "total_quantity": "9",
+    "sub_total": "350",
+    "delivery_charge": "40",
+    "discount": "50",
+    "grand_total": "260",
+    "delivery_date": "10-04-24 08:30 PM"
+}
+
+//address
+
+{
+    "type": "home",
+    "area": "sola",
+    "house_no": "123",
+    "block": "block-B",
+    "road": "sg highway",
+    "latitude" : "23.0759779",
+    "longitude" : "72.5265198"
+}
+
+//order
+
+{
+    "address_id" : "1",
+    "delivery_time_id": "1",
+    "note" : "please add some extra onion",
+    "delivery_date" : "2024-04-16"             
+}
+
+//help and support
+
+{
+    "first_name": "divyesh",
+    "last_name" : "lakhani",
+    "email": "dl2lakhani@gmail.com",
+    "subject": "order",
+    "description": "i need a help on order related query"
+}
+
+{
+    "job_id" : "1",
+    "date_id" : "2",
+    "time_id" : "3",
+    "address" : "Gota, Ahmedabad",
+    "latitude" : "23.0759779",
+    "longitude" : "72.5265198"
+}
